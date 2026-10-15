@@ -1,0 +1,51 @@
+[
+  {
+    "id": "vtad",
+    "title": "NASA 天体纹理与网格",
+    "author": "NASA Visualization Technology Applications and Development (VTAD)",
+    "license": "NASA Media Usage Guidelines",
+    "commercial": "yes_with_conditions",
+    "source_urls": [
+      "https://science.nasa.gov/resource/io-3d-model/",
+      "https://science.nasa.gov/resource/europa-3d-model/",
+      "https://science.nasa.gov/resource/ganymede-3d-model/",
+      "https://science.nasa.gov/resource/callisto-3d-model/",
+      "https://science.nasa.gov/resource/mimas-3d-model/",
+      "https://science.nasa.gov/resource/enceladus-3d-model/",
+      "https://science.nasa.gov/resource/tethys-3d-model/",
+      "https://science.nasa.gov/resource/dione-3d-model/",
+      "https://science.nasa.gov/resource/rhea-3d-model/",
+      "https://science.nasa.gov/resource/titan-3d-model/",
+      "https://science.nasa.gov/resource/hyperion-3d-model/",
+      "https://science.nasa.gov/resource/iapetus-3d-model/",
+      "https://science.nasa.gov/resource/pluto-3d-model/"
+    ],
+    "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "notice": "NASA VTAD 3D 模型的纹理与 Hyperion 不规则网格。每个具体产品页署名 VTAD，未见另列第三方版权限制；在软件内作信息性天体图形展示，按 NASA 媒体指南使用。球体、材质和文件格式为应用适配，纹理有缩放/编码。不是 NASA 标志商品，不表示 NASA 认可；Titan 是模型外观图，不称真实地表照片。"
+  },
+  {
+    "id": "mimas",
+    "title": "土卫一全球地图",
+    "author": "NASA/JPL-Caltech/Space Science Institute",
+    "license": "JPL Image Use Policy",
+    "commercial": "yes_with_conditions",
+    "source_urls": [
+      "https://www.jpl.nasa.gov/images/pia17214-mimas-global-map-june-2017/",
+      "https://science.nasa.gov/resource/mimas-global-map-june-2017/"
+    ],
+    "license_url": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+    "notice": "PIA17214，2017 年无标注等距圆柱全球图。保留完整 NASA/JPL-Caltech/Space Science Institute 署名；本应用缩小及编码。具体图页没有单列第三方商业限制，依据 JPL 图像使用规则用于天体信息展示；不得暗示机构背书。"
+  },
+  {
+    "id": "mars",
+    "title": "火卫一与火卫二",
+    "author": "NASA Visualization Technology Applications and Development (VTAD)",
+    "license": "NASA Media Usage Guidelines",
+    "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "source_urls": [
+      "https://science.nasa.gov/resource/phobos-mars-moon-3d-model/",
+      "https://science.nasa.gov/resource/deimos-mars-moon-3d-model/"
+    ],
+    "notice": "原始模型/纹理经缩放、编码、网格适配；不暗示机构背书。"
+  }
+]
