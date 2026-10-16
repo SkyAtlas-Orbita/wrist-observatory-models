@@ -289,14 +289,14 @@
       "version": 1,
       "files": [
         {
-          "name": "planet_iss.rgb.obz",
-          "bytes": 3832964,
-          "sha256": "4f9167dfbe5370138965d4e6fa2ad245593c6151ce1a6848e3033780e82bf519"
+          "name": "planet_issmaterial.rgb.obz",
+          "bytes": 5642976,
+          "sha256": "a5ad681414d5863c0a4a0cf30b493fd9ed9c9eb02607c2d29834173a3a459601"
         },
         {
-          "name": "iss_mesh.bin.obz",
-          "bytes": 1427462,
-          "sha256": "cdc333526ca134d1c5e86a53ae57d21165866f9092bf41584426cee8ddc5e352"
+          "name": "isscomplete_mesh.bin.obz",
+          "bytes": 4252208,
+          "sha256": "4c5833ea6b6b593babcbaba3ea45396ff9f507f69cb83ad933e4088dd7c605bd"
         }
       ]
     }
