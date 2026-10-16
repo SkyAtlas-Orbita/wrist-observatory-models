@@ -180,6 +180,74 @@
           "sha256": "7667f0cf0819bd8a42bf07262e0db2c2c1d411c70b73f51c2153107e58e21558"
         }
       ]
+    },
+    {
+      "id": "ceres",
+      "name": "谷神星",
+      "version": 1,
+      "files": [
+        {
+          "name": "planet_ceres.rgb.obz",
+          "bytes": 1771060,
+          "sha256": "46f498d14131642ed27816e59538673d770f64de4b5d3177cf5aca5f2aba9523"
+        },
+        {
+          "name": "ceres_mesh.bin.obz",
+          "bytes": 261182,
+          "sha256": "56994d72e3e46c3a7b7c4eff1f5c9db562c79962215ef0f16d05fd2363984457"
+        }
+      ]
+    },
+    {
+      "id": "vesta",
+      "name": "灶神星",
+      "version": 1,
+      "files": [
+        {
+          "name": "planet_vesta.rgb.obz",
+          "bytes": 2129464,
+          "sha256": "6e587ef1b04065b92cd8b3ce4249d821510790db5311c254121e7d7e01bb39d9"
+        },
+        {
+          "name": "vesta_mesh.bin.obz",
+          "bytes": 644641,
+          "sha256": "7b1373c3d0588b46d0cafebf7f58e76cce32b016ad495dd7827dc2a657480198"
+        }
+      ]
+    },
+    {
+      "id": "triton",
+      "name": "海卫一",
+      "version": 1,
+      "files": [
+        {
+          "name": "planet_triton.rgb.obz",
+          "bytes": 2317579,
+          "sha256": "d8a13e517eec03f976d1bed80719af43cc941b7647b1633ee2d2dc069a2af995"
+        },
+        {
+          "name": "triton_mesh.bin.obz",
+          "bytes": 260590,
+          "sha256": "a5866f0a349dcb58194ab15f55c69ab3f6efeda6eeade3d994bd73aec06f0cc9"
+        }
+      ]
+    },
+    {
+      "id": "charon",
+      "name": "冥卫一",
+      "version": 1,
+      "files": [
+        {
+          "name": "planet_charon.rgb.obz",
+          "bytes": 328851,
+          "sha256": "e0b746d48476a628119f5ecc0d4b6a220a839b94c904a1bc025fded3bf767ca3"
+        },
+        {
+          "name": "charon_mesh.bin.obz",
+          "bytes": 74312,
+          "sha256": "d4b721026195681e30245cfa2f6cde7cb521fdd12ab351ca3fda655d2ee266a7"
+        }
+      ]
     }
   ]
 }

@@ -18,10 +18,14 @@
       "https://science.nasa.gov/resource/titan-3d-model/",
       "https://science.nasa.gov/resource/hyperion-3d-model/",
       "https://science.nasa.gov/resource/iapetus-3d-model/",
-      "https://science.nasa.gov/resource/pluto-3d-model/"
+      "https://science.nasa.gov/resource/pluto-3d-model/",
+      "https://science.nasa.gov/resource/ceres-3d-model/",
+      "https://science.nasa.gov/resource/vesta-3d-model/",
+      "https://science.nasa.gov/resource/triton-3d-model/",
+      "https://science.nasa.gov/resource/charon-3d-model/"
     ],
     "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-    "notice": "NASA VTAD 3D 模型的纹理与 Hyperion 不规则网格。每个具体产品页署名 VTAD，未见另列第三方版权限制；在软件内作信息性天体图形展示，按 NASA 媒体指南使用。球体、材质和文件格式为应用适配，纹理有缩放/编码。不是 NASA 标志商品，不表示 NASA 认可；Titan 是模型外观图，不称真实地表照片。"
+    "notice": "NASA VTAD 3D 模型的纹理与 Hyperion 不规则网格。每个具体产品页署名 VTAD，未见另列第三方版权限制；在软件内作信息性天体图形展示，按 NASA 媒体指南使用。球体、材质和文件格式为应用适配，纹理有缩放/编码。不是 NASA 标志商品，不表示 NASA 认可；Titan 是模型外观图，不称真实地表照片。 新增谷神星、灶神星、海卫一、冥卫一：保留官方原始网格、法线与 UV，统一参考尺度，缩小和压缩纹理。"
   },
   {
     "id": "mimas",
