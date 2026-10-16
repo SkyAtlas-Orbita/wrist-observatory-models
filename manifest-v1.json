@@ -248,6 +248,57 @@
           "sha256": "d4b721026195681e30245cfa2f6cde7cb521fdd12ab351ca3fda655d2ee266a7"
         }
       ]
+    },
+    {
+      "id": "pillars",
+      "name": "创生之柱",
+      "version": 1,
+      "files": [
+        {
+          "name": "planet_pillars.rgb.obz",
+          "bytes": 1581,
+          "sha256": "463894013aee561dda3d128d90998a0a7926621db63a10ae3c98c29e70ddfc82"
+        },
+        {
+          "name": "pillars_mesh.bin.obz",
+          "bytes": 517064,
+          "sha256": "8c6e7f72e4c8157b95fccd42d1d0bfbfcc38150574636ebc4827be59788d9bed"
+        }
+      ]
+    },
+    {
+      "id": "homunculus",
+      "name": "侏儒星云",
+      "version": 1,
+      "files": [
+        {
+          "name": "planet_homunculus.rgb.obz",
+          "bytes": 1661,
+          "sha256": "c0d8b9fbf8318fd46ff8c48ae4be41b224ec64b52c03aabe50e4b2e477aa3d6b"
+        },
+        {
+          "name": "homunculus_mesh.bin.obz",
+          "bytes": 290558,
+          "sha256": "3908058fb07874cf1f2c0b091d0940a2e8b43ed11544f1420bf8b130f9f95d40"
+        }
+      ]
+    },
+    {
+      "id": "iss",
+      "name": "国际空间站",
+      "version": 1,
+      "files": [
+        {
+          "name": "planet_iss.rgb.obz",
+          "bytes": 3832964,
+          "sha256": "4f9167dfbe5370138965d4e6fa2ad245593c6151ce1a6848e3033780e82bf519"
+        },
+        {
+          "name": "iss_mesh.bin.obz",
+          "bytes": 1427462,
+          "sha256": "cdc333526ca134d1c5e86a53ae57d21165866f9092bf41584426cee8ddc5e352"
+        }
+      ]
     }
   ]
 }

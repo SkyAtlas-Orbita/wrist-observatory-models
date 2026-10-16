@@ -51,5 +51,42 @@
       "https://science.nasa.gov/resource/deimos-mars-moon-3d-model/"
     ],
     "notice": "原始模型/纹理经缩放、编码、网格适配；不暗示机构背书。"
+  },
+  {
+    "id": "pillars",
+    "title": "创生之柱",
+    "author": "NASA’s Universe of Learning, Leah Hustak (STScI), Ralf Crawford (STScI)",
+    "license": "NASA Universe of Learning copyright policy",
+    "commercial": "yes_with_conditions",
+    "source_urls": [
+      "https://universe-of-learning.org/contents/products/pillars-of-creation-3d-model"
+    ],
+    "license_url": "https://universe-of-learning.org/copyright",
+    "notice": "采用 NASA Universe of Learning 发布的四柱三维结构模型，保留各柱相对位置；移除打印底座，简化网格以适应手表。暖色为结构示意赋色，不是实拍表面，也不代表星云为不透明固体。可转腕或拖动查看不同方向。 不表示原机构为本应用背书。"
+  },
+  {
+    "id": "homunculus",
+    "title": "侏儒星云",
+    "author": "Steffen, W., Teodoro, M., Madura, T., et al. / NASA Goddard Space Flight Center",
+    "license": "NASA Images and Media Usage Guidelines",
+    "commercial": "yes_with_conditions",
+    "source_urls": [
+      "https://science.nasa.gov/3d-resources/eta-carinae-homunculus-nebula/",
+      "https://svs.gsfc.nasa.gov/11568/"
+    ],
+    "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "notice": "船底座η星周围的双极喷出物结构。采用 NASA 3D Resources 发布的三维模型，研究原作者为 W. Steffen、M. Teodoro、T. Madura 等。模型用于展示观测重建的外形；暖色为示意赋色，不是实拍表面，也不把气体当作固体。 不表示原机构为本应用背书。"
+  },
+  {
+    "id": "iss",
+    "title": "国际空间站",
+    "author": "NASA Visualization Technology Applications and Development (VTAD)",
+    "license": "NASA Images and Media Usage Guidelines",
+    "commercial": "yes_with_conditions",
+    "source_urls": [
+      "https://science.nasa.gov/resource/international-space-station-3d-model/"
+    ],
+    "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "notice": "采用 NASA VTAD 发布的国际空间站三维模型，保留舱段、桁架与太阳翼，合并材质并简化网格。展示该公开模型对应的空间站构型，不表示实时位置或最新在轨构型。太阳翼可从正反两面观察。 不表示原机构为本应用背书。"
   }
 ]
