@@ -1,6 +1,6 @@
 # 腕上天文台 · 天体模型资源
 
-21 个天体的按需下载资源。应用内置太阳、八大行星、冥王星、月球、银河系与黑洞。这里仅分发数据，不含可执行代码。
+24 个天体的按需下载资源。应用内置太阳、八大行星、冥王星、月球、银河系与黑洞。这里仅分发数据，不含可执行代码。
 
 文件为经过缩放与编码的 OBSZ 压缩纹理/网格。SHA-256 与大小见 manifest-v1.json。原始素材和各项许可仍属于原提供者；本仓库不以统一软件许可覆盖第三方素材。
 
@@ -61,12 +61,12 @@ NASA VTAD：谷神星、灶神星、海卫一、冥卫一。保留原始网格�
 - https://science.nasa.gov/resource/charon-3d-model/
 
 
-## 星云与空间站
+## 星云与空间站（v1 历史网格来源）
 
 创生之柱 / NASA’s Universe of Learning, Leah Hustak (STScI), Ralf Crawford (STScI)
 https://universe-of-learning.org/contents/products/pillars-of-creation-3d-model
 许可/使用说明：https://universe-of-learning.org/copyright
-适配：采用 NASA Universe of Learning 发布的四柱三维结构模型，保留各柱相对位置；移除打印底座，简化网格以适应手表。暖色为结构示意赋色，不是实拍表面，也不代表星云为不透明固体。可转腕或拖动查看不同方向。
+适配：采用 NASA Universe of Learning 发布的四柱三维结构模型，保留各柱相对位置；旧版对打印结构简化网格以适应手表。暖色为结构示意赋色，不是实拍表面，也不代表星云为不透明固体。可转腕或拖动查看不同方向。
 不表示原机构为本应用背书。
 
 侏儒星云 / Steffen, W., Teodoro, M., Madura, T., et al. / NASA Goddard Space Flight Center
@@ -82,3 +82,31 @@ https://science.nasa.gov/resource/international-space-station-3d-model/
 不表示原机构为本应用背书。
 
 侏儒星云原作者署名出处：https://svs.gsfc.nasa.gov/11568/ 。保留 Steffen, W., Teodoro, M., Madura, T., et al. 署名。
+
+
+## 0.3.159 新增与配色说明
+
+哈勃空间望远镜 / NASA Visualization Technology Applications and Development (VTAD)
+https://science.nasa.gov/resource/hubble-space-telescope-3d-model/
+https://www.nasa.gov/nasa-brand-center/images-and-media/
+All original faces, node transforms and material base colours retained; POT atlas, V-coordinate conversion, uint16 chunks and default-view rotation.
+
+旅行者探测器 / NASA Visualization Technology Applications and Development (VTAD)
+https://science.nasa.gov/resource/voyager-3d-model/
+https://www.nasa.gov/nasa-brand-center/images-and-media/
+All original faces, node transforms and material base colours retained; POT atlas, V-coordinate conversion, uint16 chunks and default-view rotation.
+
+Atlas V 401 火箭 / NASA Visualization Technology Applications and Development (VTAD)
+https://science.nasa.gov/resource/atlas-v-401-3d-model/
+https://www.nasa.gov/nasa-brand-center/images-and-media/
+All original faces, node transforms and material base colours retained; POT atlas, V-coordinate conversion, uint16 chunks and default-view rotation.
+
+homunculus / NASA, ESA, N. Smith (University of Arizona, Tucson), and J. Morse (BoldlyGo Institute, New York)
+https://esahubble.org/images/heic1912a/
+CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+Official 3D structural surface sampled into soft transparent points. Observational image colours projected illustratively; no inferred true density, material surface or calibrated registration. Lower printable boundary faded.
+
+pillars / NASA, ESA/Hubble and the Hubble Heritage Team
+https://esahubble.org/images/heic1501a/
+CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+Official 3D structural surface sampled into soft transparent points. Observational image colours projected illustratively; no inferred true density, material surface or calibrated registration. Lower printable boundary faded.

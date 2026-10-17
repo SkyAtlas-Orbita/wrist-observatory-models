@@ -252,34 +252,24 @@
     {
       "id": "pillars",
       "name": "创生之柱",
-      "version": 1,
+      "version": 2,
       "files": [
         {
-          "name": "planet_pillars.rgb.obz",
-          "bytes": 1581,
-          "sha256": "463894013aee561dda3d128d90998a0a7926621db63a10ae3c98c29e70ddfc82"
-        },
-        {
-          "name": "pillars_mesh.bin.obz",
-          "bytes": 517064,
-          "sha256": "8c6e7f72e4c8157b95fccd42d1d0bfbfcc38150574636ebc4827be59788d9bed"
+          "name": "pillars_cloud_v2.bin.obz",
+          "bytes": 789937,
+          "sha256": "1c97ac221ea6cbdc5378cbc0bce3ab6810d5aa71d3bde6aa6e4a5b4489bc7cd5"
         }
       ]
     },
     {
       "id": "homunculus",
       "name": "侏儒星云",
-      "version": 1,
+      "version": 2,
       "files": [
         {
-          "name": "planet_homunculus.rgb.obz",
-          "bytes": 1661,
-          "sha256": "c0d8b9fbf8318fd46ff8c48ae4be41b224ec64b52c03aabe50e4b2e477aa3d6b"
-        },
-        {
-          "name": "homunculus_mesh.bin.obz",
-          "bytes": 290558,
-          "sha256": "3908058fb07874cf1f2c0b091d0940a2e8b43ed11544f1420bf8b130f9f95d40"
+          "name": "homunculus_cloud_v2.bin.obz",
+          "bytes": 753160,
+          "sha256": "e805225e34eeaeed4b67c4365d12ec42ee1cd7e102df004f4a54ca10e6f49004"
         }
       ]
     },
@@ -297,6 +287,57 @@
           "name": "isscomplete_mesh.bin.obz",
           "bytes": 4252208,
           "sha256": "4c5833ea6b6b593babcbaba3ea45396ff9f507f69cb83ad933e4088dd7c605bd"
+        }
+      ]
+    },
+    {
+      "id": "hubble",
+      "name": "哈勃空间望远镜",
+      "version": 1,
+      "files": [
+        {
+          "name": "hubble_mesh.bin.obz",
+          "bytes": 446816,
+          "sha256": "2e94a744d4dcb42f0ee69c7cea60a398d3eba9684c3da6d716df69f07b9e0947"
+        },
+        {
+          "name": "planet_hubble.rgb.obz",
+          "bytes": 2678183,
+          "sha256": "25c2bdadd70a40f4707bd3ed9d15a56fd8a4883f1dd4dcc8645ae2b74e60cf54"
+        }
+      ]
+    },
+    {
+      "id": "voyager",
+      "name": "旅行者探测器",
+      "version": 1,
+      "files": [
+        {
+          "name": "voyager_mesh.bin.obz",
+          "bytes": 422081,
+          "sha256": "8b35ce1757cba3b268f22a5c430669bd7ae205e58a04214932b61bc7f614bad4"
+        },
+        {
+          "name": "planet_voyager.rgb.obz",
+          "bytes": 701256,
+          "sha256": "00d661e224a58e6e612732231164a50f9d7f94f8ddb916264884d0f9d86bf0e1"
+        }
+      ]
+    },
+    {
+      "id": "atlasv",
+      "name": "Atlas V 401 火箭",
+      "version": 1,
+      "files": [
+        {
+          "name": "atlasv_mesh.bin.obz",
+          "bytes": 156083,
+          "sha256": "d31a3663d7790775a9bca294c0bc053fc5b7aae64c20d26e6d8e078965a493e3"
+        },
+        {
+          "name": "planet_atlasv.rgb.obz",
+          "bytes": 336087,
+          "sha256": "656e022c2f4388783a43c4cbabec41b12f5bc7b411f3743d325907bcd37f3188"
         }
       ]
     }
